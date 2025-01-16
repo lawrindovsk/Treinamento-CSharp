@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\Treinamento\bin\Debug\net9.0\Treinamento.exe
+C:\Users\Gustavo\Desktop\Treinamento\bin\Debug\net9.0\Treinamento.deps.json
+C:\Users\Gustavo\Desktop\Treinamento\bin\Debug\net9.0\Treinamento.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Treinamento\bin\Debug\net9.0\Treinamento.dll
+C:\Users\Gustavo\Desktop\Treinamento\bin\Debug\net9.0\Treinamento.pdb
+C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\Treinamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\Treinamento.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\Treinamento.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\Treinamento.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\Treinamento.dll
+C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\refint\Treinamento.dll
+C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\Treinamento.pdb
+C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\Treinamento.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\ref\Treinamento.dll

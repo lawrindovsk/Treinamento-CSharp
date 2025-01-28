@@ -12,3 +12,4 @@ C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\refint\Treinamento.dll
 C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\Treinamento.pdb
 C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\Treinamento.genruntimeconfig.cache
 C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\ref\Treinamento.dll
+C:\Users\Gustavo\Desktop\Treinamento\obj\Debug\net9.0\Treinamento.sourcelink.json

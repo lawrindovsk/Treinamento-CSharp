@@ -23,8 +23,8 @@ namespace Arrays
             Console.WriteLine(myArray[3]);
             myArray[4] = 50 - 09;
             Console.WriteLine(myArray[4]);
-
         }
+        //fim first function.
     }
 
 }

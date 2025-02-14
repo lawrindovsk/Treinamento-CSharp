@@ -1,9 +1,8 @@
 using System;
-using System.Runtime.InteropServices;
 using Arrays;
 using Data;
-using Exceptions;
 using NumerosMoedas;
+using TreinamentoTabuada;
 
 namespace Treinamento
 {
@@ -18,7 +17,10 @@ namespace Treinamento
             Console.WriteLine("1 - Datas ");
             Console.WriteLine("2 - Moedas (validações, deciamais, culture e etc.)");
             Console.WriteLine("3 - Arrays ");
-            Console.WriteLine("4 - Exceptions ");
+            Console.WriteLine("4 - Tabuada");
+            Console.WriteLine("# -");
+            Console.WriteLine("# -");
+            Console.WriteLine("# -");
 
 #pragma warning disable CS8604 // Possível argumento de referência nula.
             short choose = short.Parse(Console.ReadLine());
@@ -37,7 +39,7 @@ namespace Treinamento
                     Listas.arryasList();
                     break;
                 case 4:
-                    Erro.Process();
+                    Tab.Tabuada();
                     break;
                 case 5:
                     break;
